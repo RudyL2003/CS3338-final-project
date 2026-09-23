@@ -1,0 +1,8 @@
+*.log
+User_manual/
+*_*.txt
+styles.css
+*SRS*
+*SDD*
+!*final*
+*/README*
